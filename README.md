@@ -25,7 +25,7 @@ about myself that is more contemplating, comprehendible than a formal CV.
 ## Technical skills
 
 - Very efficient infra-as-code programmer with tools: Terraform, Ansible, Packer, Helm
-- Not a typical coder, more like a scripter for automating things and getting things done with: Python, sometimes Bash
+- Not a typical coder, more like a scripter for automating things and getting things done with: Python, Go and sometimes Bash
 - Have worked mostly with Cloud Providers: GCP, AWS
 - A good amount of experience with Container Orchestration tools: Mesos-Marathon, Nomad, Kubernetes. Kubernetes is the one I know/use the most
 - Have been a Linux and POSIX compliant OSes user all of my career. Know my way around it but would still learn a new thing about it every day
