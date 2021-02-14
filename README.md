@@ -43,10 +43,10 @@ about myself that is more contemplating, comprehendible than a formal CV.
 ## Where do I see myself thriving?
 
 - A company and team culture with the values that I can identify with: transparency, feedback culture, collaboration, respect
-- In the last 3 years, I kept getting the feedback that I am excellent at leading. I do enjoy it as well and in fact, I do see myself leading a team in the near future
-- A place that understands the DevOps and a good engineering culture
+- In the last 3 years, I kept getting the feedback that I am good at leading. I do enjoy it as well and in fact, I see myself leading a team in the near future
+- A place that understands DevOps and a good engineering culture
 - I am a hard-worker if I believe in the impact, and I do take my mental health seriously. A place with a balance is important
-- As of last, I believe a workplace should be about two-way conversation. It is a relationship that needs regular care. I imagine a place where both employee and employer mutually benefit each other at their best interest
+- As of last, I believe a workplace should be about two-way conversation. It is a relationship that needs regular care. I imagine a place where both employee and employer mutually benefit each other at their best interest. People first. 
 
 
 Find me on [LinkedIn][linkedin] to see my career history. 
