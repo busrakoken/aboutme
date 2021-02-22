@@ -22,7 +22,7 @@ about myself that is more contemplating, comprehendible than a formal CV.
 - Short feedback loops are essentials for building trust
 - Continuous learning by doing is important to me, I don't know everything but I can learn almost anything
 
-## Technical skills
+## Technical experience
 
 - Very efficient infra-as-code programmer with tools: Terraform, Ansible, Packer, Helm
 - Not a typical coder, more like a scripter for automating things and getting things done with: Python, Go and sometimes Bash
